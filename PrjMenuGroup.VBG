@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=prjMenu.vbp
+StartupProject=..\OCX Menu\prjTestMenu.vbp
