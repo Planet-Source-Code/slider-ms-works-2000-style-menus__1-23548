@@ -1,0 +1,10 @@
+modDelcares = 132, 132, 959, 654, C
+cMemDC = 154, 154, 981, 676, C
+cMenu = 176, 176, 1003, 698, C
+cMenuItem = 220, 220, 1047, 742, C
+colMenuItems = 198, 198, 1025, 720, C
+colMenus = 154, 154, 981, 676, C
+modClassIDGenerator = 242, 242, 1025, 859, C
+ucVMenu = 66, 66, 686, 588, Z, 0, 0, 620, 522, C
+ucHMenu = 176, 176, 796, 698, C, 132, 132, 752, 654, C
+cInfoTip = 154, 154, 785, 709, C
